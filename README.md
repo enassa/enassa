@@ -1,5 +1,5 @@
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&theme=darko&height=300&header=I%20am%20Assan %20Ewudzi%20Nathaniel&text=Welcome%20to%20my%20Profile&fontSize=50) -->
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=white)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fdfff5&&animation=twinkling)
 
 > ## Hello, Assan Ewudzi Nathaniel 🐱‍💻
 I'm a **Software Engineer** and an **Author** who builds resilient ui/ux and robust fullstack applications for the web and mobile.
