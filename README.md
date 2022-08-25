@@ -14,7 +14,7 @@ eight=100&&textBg=false&rotate=0&fontAlignX=20&section=header&text=Welcome%20to%
 
 <section align="center">
 <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://user-images.githubusercontent.com/41119901/186784511-cc840f49-77f1-4a7b-acc3-0e2b0ec7cdb3.png"/>
 </a>
    <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/41119901/186783877-91f04242-cfa2-4730-a0db-11e2a5dc0c22.png"/>
@@ -86,6 +86,7 @@ I'm a **Software Engineer** and an **Author** who builds resilient ui/ux and rob
 **enassa/enassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
 Here are some ideas to get you started:
+
 
 - 🔭 I’m currently working on ...
 - 🌱 I’m currently learning ...
