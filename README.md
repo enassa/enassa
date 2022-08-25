@@ -13,7 +13,7 @@ eight=100&&textBg=false&rotate=0&fontAlignX=20&section=header&text=Welcome%20to%
  </section>
 <section align="center">
    <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/41119901/186788644-27cd3ba8-dd15-4aef-acdf-84c8e941130a.png"/>
+  <img height="200" src="https://user-images.githubusercontent.com/41119901/186788644-27cd3ba8-dd15-4aef-acdf-84c8e941130a.png"/>
 </a>
 
    </section>
