@@ -1,3 +1,6 @@
+![icons8-linkedin-50](https://user-images.githubusercontent.com/41119901/186783850-b0809043-71ab-4b3b-a906-00e52041a3aa.png)
+![icons8-twitter-circled-50](https://user-images.githubusercontent.com/41119901/186783855-03aef318-3b0b-4242-a6cc-cb08bc463fbc.png)
+![icons8-facebook-50](https://user-images.githubusercontent.com/41119901/186783856-35ed55e8-e87b-4409-95c7-8f4db8000ca0.png)
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&theme=darko&height=300&header=I%20am%20Assan %20Ewudzi%20Nathaniel&text=Welcome%20to%20my%20Profile&fontSize=50) -->
 <section align="justify">
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&&textBg=false&rotate=0&fontAlignX=20&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fdfff5&&animation=twinkling) -->
@@ -14,14 +17,15 @@ eight=100&&textBg=false&rotate=0&fontAlignX=20&section=header&text=Welcome%20to%
   <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
 </a>
    <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://user-images.githubusercontent.com/41119901/186783877-91f04242-cfa2-4730-a0db-11e2a5dc0c22.png"/>
 </a>
    <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://user-images.githubusercontent.com/41119901/186784018-6840f8c1-9796-4774-87eb-222b2edb92f0.png"/>
 </a>
    <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/46517096/166974368-9798f39f-1f46-499c-b14e-81f0a3f83a06.png"/>
+  <img height="50" src="https://user-images.githubusercontent.com/41119901/186784033-fd068da2-23cd-47ac-91b8-9d32f75efa62.png"/>
 </a>
+   
   </section>
 > ## Hello, Assan Ewudzi Nathaniel 🐱‍💻
 I'm a **Software Engineer** and an **Author** who builds resilient ui/ux and robust fullstack applications for the web and mobile.
@@ -92,4 +96,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 -->
+
+
 
