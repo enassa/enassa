@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&theme=dark&height=300&section=header&text=Assan%20Ewudzi%20Nathaniel&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&theme=darko&height=300&section=header&text=Assan%20Ewudzi%20Nathaniel&fontSize=50)
 
 > ## Hello, Assan Ewudzi Nathaniel 🐱‍💻
 I'm a **Software Engineer** and an **Author** who builds resilient ui/ux and robust fullstack applications for the web and mobile.
