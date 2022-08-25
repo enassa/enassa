@@ -1,7 +1,7 @@
 ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&theme=darko&height=300&section=header&text=Assan%20Ewudzi%20Nathaniel&fontSize=50)
 
 > ## Hello, Assan Ewudzi Nathaniel 🐱‍💻
-I'm a **Software Engineer** and an **Author** who builds resilient ui/ux and robust fullstack applications for the web and mobile.
+I'm a **Software Engineer** and an **Author** who builds resilient ui/ux and desc=Hello%20capsule%20render&robust fullstack applications for the web and mobile.
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faddalibrahim&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/>
