@@ -11,7 +11,12 @@
 eight=100&&textBg=false&rotate=0&fontAlignX=20&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fdfff5&&animation=twinkling)" />
    
  </section>
+<section align="center">
+   <a href="https://www.instagram.com/thepiyushmalhotra/">
+  <img height="50" src="https://user-images.githubusercontent.com/41119901/186786637-52863847-eecd-4749-97b1-9562ff2da748.png"/>
+</a>
 
+   </section>
 <section align="center">
 <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/41119901/186784511-cc840f49-77f1-4a7b-acc3-0e2b0ec7cdb3.png"/>
