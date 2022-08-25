@@ -1,21 +1,20 @@
 <!-- <p align="center">
   <img src="https://capsule-render.vercel.app/api?text=Hey Everyone!🕹️&animation=fadeIn&type=waving&color=gradient&height=100"/>
 </p> -->
-> ## Hello, I'm Faddal Ibrahim 🐱‍💻
-I'm a **Technical Writer** and **Software Engineer** who builds resilient ui/ux and robust fullstack applications for the web and mobile
+> ## Hello, Assan Ewudzi Nathaniel 🐱‍💻
+I'm a **Software Engineer** and an **Author** who builds resilient ui/ux and robust fullstack applications for the web and mobile.
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faddalibrahim&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/>
 
-⚡ I'm currently working on [ashesi hackers league](https://github.com/gdscashesi/ashesi-hackers-league)  
+⚡ I'm currently working on [](https://github.com/gdscashesi/ashesi-hackers-league)  
 🔭 Cloud DevOps is what I'm learning now  
-🌱 Find all about me on my [website](https://faddalibrahim.com)  
+🌱 Find all about me on my [website](https://pixynate.web.app)  
 👯 Would love to collaborate on any cool web project    
-💬 Apart from tech, we can talk about movies and football  
-✏️ I author technical content on [dev](https://dev.to/faddalibrahim) and [sweetcode](https://sweetcode.io/author/fibrahim/)  
-🖊️ Read my personal experiences and self-development tips on my [blog](https://blog.faddalibrahim.com)  
-📫 Reach me on [linkedin](https://www.linkedin.com/in/faddalibrahim/) and [twitter](https://twitter.com/FaddalIbrahim)   
-🎉 Math, Anime and Coding is my love triangle
+💬 Apart from tech, we can talk about Jesus, Mysteries of the universe and perspectives in life.  
+✏️ I write books and articles on IT, effective living and the salvation of man [facebook]([https://dev.to/faddalibrahim](https://web.facebook.com/people/Nathaniel-E-Assan/100009019927936/))  
+📫 Reach me on [linkedin](https://www.linkedin.com/in/enassan)    
+🎉 Church, Writing and Coding is my love triangle
 
 <br />
 <br />
@@ -30,11 +29,11 @@ I'm a **Technical Writer** and **Software Engineer** who builds resilient ui/ux 
 
 > ## Programming Languages
 
-<img src="https://skillicons.dev/icons?i=python"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=js"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=ts"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=java"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=php"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=go"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cplusplus"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=bash"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <br/>
 <br/>
@@ -42,14 +41,14 @@ I'm a **Technical Writer** and **Software Engineer** who builds resilient ui/ux 
 > ## Tools & Frameworks
 
 <img src="https://skillicons.dev/icons?i=react"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=flutter"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=vue"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=nodejs"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=git"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=googlecloud"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=laravel"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=django"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=postgres"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=vim"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<!-- <img src="https://skillicons.dev/icons?i=vim"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
 
 
