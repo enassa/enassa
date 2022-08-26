@@ -2,7 +2,7 @@
 <!-- <section width="100%" align="center">
 <img   src="https://capsule-render.vercel.app/api?type=waving&text=Hi,%20I%20am%20glad%20you%20you%20are%20here.&fontAlign=50&height=170&fontColor=fdfff5&fontSize=20&descAlign=60&descAlignY=50"/>
 </section -->
-  > ##Hi I'm, Assan Ewudzi Nathaniel 🐱‍💻
+  > ## Hi I'm, Assan Ewudzi Nathaniel 🐱‍💻
    I'm a **Software Engineer** and an **Author** who builds resilient ui/ux and robust fullstack applications for the web and mobile.
 
 > <section align="right">
