@@ -19,7 +19,7 @@
   <img  height="50" src="https://user-images.githubusercontent.com/41119901/186784033-fd068da2-23cd-47ac-91b8-9d32f75efa62.png"/>
    </a>
 </section>
-
+[![Nathaniel's GitHub stats](https://github-readme-stats.vercel.app/api?username=enassa)](https://github.com/anuraghazra/github-readme-stats)
 
 
 <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=faddalibrahim&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/>
