@@ -1,8 +1,3 @@
-
-<!-- <section width="100%" align="center">
-<img   src="https://capsule-render.vercel.app/api?type=waving&text=Hi,%20I%20am%20glad%20you%20you%20are%20here.&fontAlign=50&height=170&fontColor=fdfff5&fontSize=20&descAlign=60&descAlignY=50"/>
-</section -->
-
 > ## Hi I'm, Assan Ewudzi Nathaniel 🐱‍💻
 I'm a **Software Engineer** and an **Author** who is dedicated to finding a delicate balance between speed and accuracy and the effective conveyance of the      knowledge obtained in this pursuit to posterity.
   
@@ -22,10 +17,7 @@ I'm a **Software Engineer** and an **Author** who is dedicated to finding a deli
    </a>
 </section>
 
-
  <br/>
-
-<!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enassa&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/> -->
 
 > ## Coding Languages
 
@@ -33,9 +25,10 @@ I'm a **Software Engineer** and an **Author** who is dedicated to finding a deli
 <img src="https://skillicons.dev/icons?i=ts"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=java"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=php"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<img src="https://skillicons.dev/icons?i=c++"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+<img src="https://skillicons.dev/icons?i=cplus"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=sql"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=graphql"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
 <br/>
 
 > ## Tools & Frameworks
@@ -48,9 +41,11 @@ I'm a **Software Engineer** and an **Author** who is dedicated to finding a deli
 <img src="https://skillicons.dev/icons?i=laravel"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=postgres"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-<!-- <img src="https://skillicons.dev/icons?i=vim"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
+<img src="https://skillicons.dev/icons?i=figma"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
+
  <br/>
-  <br/>
+ <br/>
+ 
  > ## Github history
 <section align="center">
 <div style="display:flex;justify-content: space-between">
@@ -60,6 +55,9 @@ I'm a **Software Engineer** and an **Author** who is dedicated to finding a deli
 </section>
 <section align="center">
    <img src="https://github.com/enassa/enassa/blob/output/github-contribution-grid-snake.svg"> 
-  </section>
-<!--
-**enassa/enassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+ </section>
+ 
+ <section width="100%" align="center">
+<img   src="https://capsule-render.vercel.app/api?type=waving&text=Hi,%20I%20am%20glad%20you%20you%20are%20here.&fontAlign=50&height=170&fontColor=fdfff5&fontSize=20&descAlign=60&descAlignY=50"/>
+</section
+<!--**enassa/enassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.->
