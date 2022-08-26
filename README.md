@@ -42,8 +42,9 @@
 
 <br />
 <br />
-
-![Snake animation](https://github.com/enassa/enassa/blob/output/github-contribution-grid-snake.svg)<br/>
+<img src="https://github.com/enassa/enassa/blob/output/github-contribution-grid-snake.svg"/>
+<!-- ![Snake animation](https://github.com/enassa/enassa/blob/output/github-contribution-grid-snake.svg) -->
+<br/>
 
 > ## Programming Languages
 
