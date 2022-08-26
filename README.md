@@ -22,7 +22,7 @@
    </a>
 </section>
 
-> ## Hello, Assan Ewudzi Nathaniel 🐱‍💻
+> ## I'm, Assan Ewudzi Nathaniel 🐱‍💻
 I'm a **Software Engineer** and an **Author** who builds resilient ui/ux and robust fullstack applications for the web and mobile.
 
 
