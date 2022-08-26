@@ -5,7 +5,7 @@
 
 > ## Hi I'm, Assan Ewudzi Nathaniel 🐱‍💻
 I'm a **Software Engineer** and an **Author** who is dedicated to finding a delicate balance between speed and accuracy and the effective conveyance of the      knowledge obtained in this pursuit to posterity.
-   
+  
  > ## Social media handles
 <section align="left">
   <a  href="">
@@ -23,7 +23,7 @@ I'm a **Software Engineer** and an **Author** who is dedicated to finding a deli
 </section>
 
 
-
+ <br/>
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enassa&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/> -->
 
@@ -36,8 +36,6 @@ I'm a **Software Engineer** and an **Author** who is dedicated to finding a deli
 <img src="https://skillicons.dev/icons?i=c++"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=sql"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=graphql"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
-
-<br/>
 <br/>
 
 > ## Tools & Frameworks
@@ -51,7 +49,8 @@ I'm a **Software Engineer** and an **Author** who is dedicated to finding a deli
 <img src="https://skillicons.dev/icons?i=postgres"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <img src="https://skillicons.dev/icons?i=vim"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-
+ <br/>
+  <br/>
  > ## Github history
 <section align="center">
 <div style="display:flex;justify-content: space-between">
