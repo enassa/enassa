@@ -1,13 +1,7 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&theme=darko&height=300&header=I%20am%20Assan %20Ewudzi%20Nathaniel&text=Welcome%20to%20my%20Profile&fontSize=50) -->
-<section align="justify">
-<!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&&textBg=false&rotate=0&fontAlignX=20&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fdfff5&&animation=twinkling) -->
-   <img src="[https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&&textBg=false&rotate=0&fontAlignX=20&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fdfff5&&animation=twinkling)" />
-    <img src="[https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&h![icons8-linkedin-50](https://user-images.githubusercontent.com/41119901/186783742-ec25d896-26ec-4757-90cd-40a29e3ce22f.png)
-![icons8-twitter-circled-50](https://user-images.githubusercontent.com/41119901/186783748-0bd47921-8355-4da6-81c1-2e88da4868d9.png)
-![icons8-facebook-50](https://user-images.githubusercontent.com/41119901/186783750-9d6be2b2-1196-40d7-9b86-5002b375525e.png)
-eight=100&&textBg=false&rotate=0&fontAlignX=20&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fdfff5&&animation=twinkling)" />
-   
+<section align="left">
+      <img src="[https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&&textBg=false&rotate=0&fontAlignX=20&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fdfff5&&animation=twinkling)" />
  </section>
 <section align="center">
    <a href="https://www.instagram.com/thepiyushmalhotra/">
