@@ -13,8 +13,9 @@ eight=100&&textBg=false&rotate=0&fontAlignX=20&section=header&text=Welcome%20to%
  </section>
 <section align="center">
    <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="200" src="https://user-images.githubusercontent.com/41119901/186788644-27cd3ba8-dd15-4aef-acdf-84c8e941130a.png"/>
+  <img height="200" src="https://user-images.githubusercontent.com/41119901/186789301-60f26504-8707-4425-b3eb-e70985dae51d.jpg"/>
 </a>
+<!-- ![NATHANIEL2](https://user-images.githubusercontent.com/41119901/186789301-60f26504-8707-4425-b3eb-e70985dae51d.jpg) -->
 
    </section>
 <section align="center">
