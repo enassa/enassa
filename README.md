@@ -60,5 +60,5 @@ I'm a **Software Engineer** and an **Author** who is dedicated to finding a deli
  </section>
  
  <section width="100%" align="center">
-<img   src="https://capsule-render.vercel.app/api?type=waving&text=Hi,%20I%20am%20glad%20you%20you%20are%20here.&fontAlign=50&height=170&fontColor=fdfff5&fontSize=20&descAlign=60&descAlignY=50&reversal=true"/>
+<img   src="https://capsule-render.vercel.app/api?type=waving&text=Hi,%20I%20am%20glad%20you%20you%20are%20here.&fontAlign=50&height=170&fontColor=fdfff5&fontSize=20&descAlign=60&descAlignY=50&rotate=100"/>
 </section
