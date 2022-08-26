@@ -20,8 +20,12 @@
    </a>
 </section>
 <section>
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+<div style="display:flex;justify-content: space-between">
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=enassa&theme=ayu-mirage&hide_border=true" width="49.5%"/>
 
+<img src="https://github-readme-stats.vercel.app/api?username=faddalibrahim&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49.5%"/>
+
+</div>  
   </section>
 
 
@@ -39,12 +43,7 @@
 <br />
 <br />
 
-<div style="display:flex;justify-content: space-between">
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=faddalibrahim&theme=ayu-mirage&hide_border=true" width="49.5%"/>
 
-<img src="https://github-readme-stats.vercel.app/api?username=faddalibrahim&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49.5%"/>
-
-</div>  
 <br/>
 
 > ## Programming Languages
