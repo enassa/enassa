@@ -6,7 +6,7 @@
 > ## Hi I'm, Assan Ewudzi Nathaniel 🐱‍💻
 I'm a **Software Engineer** and an **Author** who is dedicated to finding a delicate balance between speed and accuracy and the effective conveyance of the      knowledge obtained in this pursuit to posterity.
    
-<section align="right">
+<section align="center">
   <a  href="">
   <img height="50" src="https://user-images.githubusercontent.com/41119901/186784511-cc840f49-77f1-4a7b-acc3-0e2b0ec7cdb3.png"/>
   </a>
