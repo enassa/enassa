@@ -6,6 +6,7 @@
 > ## Hi I'm, Assan Ewudzi Nathaniel 🐱‍💻
 I'm a **Software Engineer** and an **Author** who is dedicated to finding a delicate balance between speed and accuracy and the effective conveyance of the      knowledge obtained in this pursuit to posterity.
    
+ > ## Social media handles
 <section align="center">
   <a  href="">
   <img height="50" src="https://user-images.githubusercontent.com/41119901/186784511-cc840f49-77f1-4a7b-acc3-0e2b0ec7cdb3.png"/>
@@ -54,6 +55,7 @@ I'm a **Software Engineer** and an **Author** who is dedicated to finding a deli
 <img src="https://skillicons.dev/icons?i=mysql"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <img src="https://skillicons.dev/icons?i=vim"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
 
+ > ## Github history
 <section>
 <div style="display:flex;justify-content: space-between">
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=enassa&theme=ayu-mirage&hide_border=true" width="49.5%"/>
