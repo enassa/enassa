@@ -4,7 +4,7 @@
 <img align="right" height="200" src="https://user-images.githubusercontent.com/41119901/186789301-60f26504-8707-4425-b3eb-e70985dae51d.jpg"/>
 </section> -->
 <section width="100%" align="center">
-<img align="center"   src="https://capsule-render.vercel.app/api?type=waving&text=Hi,%20I%20am%20glad%20you%20you%20are%20here.&fontAlign=50&fontColor="fdfff5"&fontSize=30&descAlign=60&descAlignY=50&theme=sds"/>
+<img align="center"   src="https://capsule-render.vercel.app/api?type=waving&text=Hi,%20I%20am%20glad%20you%20you%20are%20here.&fontAlign=50&fontColor=fdfff5&fontSize=30&descAlign=60&descAlignY=50"/>
 </section
   
 <section width="100%" align="center">
