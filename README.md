@@ -27,9 +27,6 @@ I'm a **Software Engineer** and an **Author** who is dedicated to finding a deli
 
 <!-- <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=enassa&layout=compact&theme=ayu-mirage&hide_border=true&count_private=true&langs_count=10" width="40%"/> -->
 
-
-<br/>
-
 > ## Coding Languages
 
 <img src="https://skillicons.dev/icons?i=js"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
@@ -62,7 +59,8 @@ I'm a **Software Engineer** and an **Author** who is dedicated to finding a deli
 <img src="https://github-readme-stats.vercel.app/api?username=enassa&show_icons=true&include_all_commits=true&theme=ayu-mirage&hide_border=true&count_private=true" width="49.5%"/>
 </div>  
 </section>
-
-![Snake animation](https://github.com/enassa/enassa/blob/output/github-contribution-grid-snake.svg)
+<section align="center">
+   ![Snake animation](https://github.com/enassa/enassa/blob/output/github-contribution-grid-snake.svg)
+  </section>
 <!--
 **enassa/enassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
