@@ -4,21 +4,21 @@
 <img align="right" height="200" src="https://user-images.githubusercontent.com/41119901/186789301-60f26504-8707-4425-b3eb-e70985dae51d.jpg"/>
 </section> -->
 <section width="100%" align="center">
-<img   src="https://capsule-render.vercel.app/api?type=waving&text=Welcome%20to%20my%profile&fontAlign=30&fontSize=30&desc=Use%20theme&descAlign=60&descAlignY=50&theme=radical"/>
+<img align="center"   src="https://capsule-render.vercel.app/api?type=waving&text=Welcome%20to%20my%profile&fontAlign=50&fontSize=30&descAlign=60&descAlignY=50&theme=radical"/>
 </section
   
 <section width="100%" align="center">
-  <a  href="https://www.instagram.com/thepiyushmalhotra/">
+  <a align="center" href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/41119901/186784511-cc840f49-77f1-4a7b-acc3-0e2b0ec7cdb3.png"/>
   </a>
-   <a href="https://www.instagram.com/thepiyushmalhotra/">
+   <a align="center" href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/41119901/186783877-91f04242-cfa2-4730-a0db-11e2a5dc0c22.png"/>
   </a>
-   <a href="https://www.instagram.com/thepiyushmalhotra/">
+   <a align="center" href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/41119901/186784018-6840f8c1-9796-4774-87eb-222b2edb92f0.png"/>
    </a>
-   <a href="https://www.instagram.com/thepiyushmalhotra/">
-  <img height="50" src="https://user-images.githubusercontent.com/41119901/186784033-fd068da2-23cd-47ac-91b8-9d32f75efa62.png"/>
+   <a align="center" href="https://www.instagram.com/thepiyushmalhotra/">
+  <img align="center" height="50" src="https://user-images.githubusercontent.com/41119901/186784033-fd068da2-23cd-47ac-91b8-9d32f75efa62.png"/>
    </a>
 </section>
 
