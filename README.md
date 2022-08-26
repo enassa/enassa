@@ -43,7 +43,7 @@
 <br />
 <br />
 
-![Snake animation](https://github.com/thepiyushmalhotra/thepiyushmalhotra/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://github.com/thepiyushmalhotra/enassa/blob/output/github-contribution-grid-snake.svg)
 <br/>
 
 > ## Programming Languages
@@ -68,10 +68,6 @@
 <img src="https://skillicons.dev/icons?i=postgres"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <img src="https://skillicons.dev/icons?i=mysql"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;
 <!-- <img src="https://skillicons.dev/icons?i=vim"/>&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; -->
-
-
-
-<!-- ![GitHub Activity Graph](https://activity-graph.herokuapp.com/graph?username=faddalibrahim&theme=react-dark) -->
 
 
 
