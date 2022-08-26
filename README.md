@@ -60,7 +60,7 @@ I'm a **Software Engineer** and an **Author** who is dedicated to finding a deli
 </div>  
 </section>
 <section align="center">
-   ![Snake animation](https://github.com/enassa/enassa/blob/output/github-contribution-grid-snake.svg)
+   <img src="https://github.com/enassa/enassa/blob/output/github-contribution-grid-snake.svg"> 
   </section>
 <!--
 **enassa/enassa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
