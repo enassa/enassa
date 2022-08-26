@@ -1,8 +1,6 @@
 
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&theme=darko&height=300&header=I%20am%20Assan %20Ewudzi%20Nathaniel&text=Welcome%20to%20my%20Profile&fontSize=50) -->
-<section align="left">
       <img src="[https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=capsule%20render&fontSize=90](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&&textBg=false&rotate=0&fontAlignX=20&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fdfff5&&animation=twinkling)" />
- </section>
 <section align="center">
    <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="200" src="https://user-images.githubusercontent.com/41119901/186789301-60f26504-8707-4425-b3eb-e70985dae51d.jpg"/>
