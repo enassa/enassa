@@ -3,8 +3,8 @@
 <img   src="https://capsule-render.vercel.app/api?type=waving&text=Hi,%20I%20am%20glad%20you%20you%20are%20here.&fontAlign=50&height=170&fontColor=fdfff5&fontSize=20&descAlign=60&descAlignY=50"/>
 </section -->
   > ## Hi I'm, Assan Ewudzi Nathaniel 🐱‍💻
-   I'm a **Software Engineer** and an **Author** who builds resilient ui/ux and robust fullstack applications for the web and mobile.
-
+   I'm a **Software Engineer** and an **Author** who is dedicated to finding a delicate balance between speed and accuracy and the effective conveyance of the knowledge obtained in this pursuit to posterity.
+   
 > <section align="right">
   <a  href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/41119901/186784511-cc840f49-77f1-4a7b-acc3-0e2b0ec7cdb3.png"/>
