@@ -8,18 +8,18 @@
 </section
   
 <section width="100%" align="center">
-<a align="center" href="https://www.instagram.com/thepiyushmalhotra/">
+  <a  href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/41119901/186784511-cc840f49-77f1-4a7b-acc3-0e2b0ec7cdb3.png"/>
-</a>
+  </a>
    <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/41119901/186783877-91f04242-cfa2-4730-a0db-11e2a5dc0c22.png"/>
-</a>
+  </a>
    <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/41119901/186784018-6840f8c1-9796-4774-87eb-222b2edb92f0.png"/>
-</a>
+   </a>
    <a href="https://www.instagram.com/thepiyushmalhotra/">
   <img height="50" src="https://user-images.githubusercontent.com/41119901/186784033-fd068da2-23cd-47ac-91b8-9d32f75efa62.png"/>
-</a>
+   </a>
 </section>
 
 > ## Hello, Assan Ewudzi Nathaniel 🐱‍💻
