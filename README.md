@@ -57,7 +57,7 @@ I'm a **Software Engineer** and an **Author** who is dedicated to finding a deli
 </section>
 <section align="center">
    <img src="https://github.com/enassa/enassa/blob/output/github-contribution-grid-snake.svg"> 
-   <img   src="https://capsule-render.vercel.app/api?type=waving&color=c6c7c1&reversal=true&text=&fontAlign=50&height=50&fontColor=fdfff5&fontSize=20&descAlign=60&descAlignY=50"/>
+   <img   src="https://capsule-render.vercel.app/api?type=waving&color=12261e&reversal=true&text=&fontAlign=50&height=50&fontColor=fdfff5&fontSize=20&descAlign=60&descAlignY=50"/>
 </section
   
 
