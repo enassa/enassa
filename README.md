@@ -1,6 +1,4 @@
-![icons8-linkedin-50](https://user-images.githubusercontent.com/41119901/186783850-b0809043-71ab-4b3b-a906-00e52041a3aa.png)
-![icons8-twitter-circled-50](https://user-images.githubusercontent.com/41119901/186783855-03aef318-3b0b-4242-a6cc-cb08bc463fbc.png)
-![icons8-facebook-50](https://user-images.githubusercontent.com/41119901/186783856-35ed55e8-e87b-4409-95c7-8f4db8000ca0.png)
+
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&theme=darko&height=300&header=I%20am%20Assan %20Ewudzi%20Nathaniel&text=Welcome%20to%20my%20Profile&fontSize=50) -->
 <section align="justify">
 <!-- ![header](https://capsule-render.vercel.app/api?type=waving&color=0:EEFF00,100:a82da8&height=100&&textBg=false&rotate=0&fontAlignX=20&section=header&text=Welcome%20to%20my%20Profile&fontSize=40&fontColor=fdfff5&&animation=twinkling) -->
