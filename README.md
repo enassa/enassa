@@ -1,4 +1,4 @@
-> ## Hi I'm, Assan Ewudzi Nathaniel 🐱‍💻
+ ## Hi, Nathaniel here 🐱‍💻
 I'm a **Software Engineer** and an **Author** who is dedicated to finding a delicate balance between speed and accuracy and the effective conveyance of the      knowledge obtained in this pursuit to posterity.
   
  > ## Social media handles
